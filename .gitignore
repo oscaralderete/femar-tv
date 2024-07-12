@@ -1,0 +1,7 @@
+node_modules/
+_apk/
+_docs/
+.expo/
+.expo-shared/
+android/
+apoyo_empresarial_mobile.keystore
