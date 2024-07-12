@@ -18,3 +18,4 @@ npm install
 
 I'll prepare a video to explain this, so you can get a useful + updated code that could be useful for your own purposes.
 
+(Video is ready! Check it here: https://youtu.be/d1N-49ZBZ34)
